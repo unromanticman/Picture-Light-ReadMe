@@ -8,6 +8,6 @@ Picture Light ReadMe:<br/>
 <img src="https://raw.githubusercontent.com/unromanticman/Picture-Light-ReadMe/master/addTech.gif"/>
 
 Q1.如何產生PictureLightFile目錄 (How to produce PictureLightFile folder)：<br/>
-Ans:在打開windwos上打開PictureLight.exe 即可開起寫入文字的程式<br/><br/>
+Ans:把下載來的整個專案丟到windows,並在windwos上打開PictureLight.exe即可開起寫入文字的程式<br/><br/>
 
 
